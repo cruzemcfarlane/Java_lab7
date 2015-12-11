@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ id\ credit\ course
+comment0.target=UniversityStudent(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=credit
+comment1.target=void\ setCredit(int)
+comment2.params=course
+comment2.target=void\ setCourse(int)
+comment3.params=
+comment3.target=int\ getCredit()
+comment4.params=
+comment4.target=int\ getCourse()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ calculateGPA()
+numComments=7
